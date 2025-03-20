@@ -51,7 +51,7 @@ repos:
     rev: v0.44.0
     hooks:
       - id: markdownlint
-        args: ["--disable=MD013", "--disable=MD033"]
+        args: ["--disable=MD013"]
 
   - repo: https://github.com/compilerla/conventional-pre-commit
     rev: v4.0.0
