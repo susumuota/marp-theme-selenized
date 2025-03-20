@@ -1,4 +1,4 @@
-# Marp selenized theme
+# Marp Selenized Theme
 
 This is a [Marp](https://marp.app/) theme based on the [Selenized color palette](https://github.com/jan-warchol/selenized).
 
