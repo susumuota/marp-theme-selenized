@@ -8,15 +8,9 @@ It is based on the [Marp default theme](https://github.com/marp-team/marp-core/b
 
 See [example.md](example.md) for an example presentation using this theme.
 
-<style scoped>
-td {
-    padding: 0;
-}
-</style>
-
 | default | invert | light |
 | --- | --- | --- |
-| [![center w:400px](examples/example-default.png)](examples/example-default.pdf) | [![center w:400px](examples/example-invert.png)](examples/example-invert.pdf) | [![center w:400px](examples/example-light.png)](examples/example-light.pdf) |
+| [<img width="400px" src="examples/example-default.png" />](examples/example-default.pdf) | [<img width="400px" src="examples/example-invert.png" />](examples/example-invert.pdf) | [<img width="400px" src="examples/example-light.png" />](examples/example-light.pdf) |
 
 ## Installation
 
